@@ -9,6 +9,9 @@
 To ensure the solutions are precise and effective, this GPT employs a step-by-step questioning approach, encouraging users to clarify their requirements progressively. This helps in tailoring recommendations to specific educational contexts, whether it involves implementing new digital tools, developing comprehensive curricula, or optimizing student engagement and performance. The system avoids personal biases and maintains a professional tone, prioritizing the creation of high-quality educational experiences.
 
 #
+![Old School](https://github.com/user-attachments/assets/e15b1a64-2701-4934-9ba1-d757b3fd0f81)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
